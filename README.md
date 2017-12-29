@@ -4,7 +4,7 @@ This guide will help you get started and acquainted with XProf. After this short
 
 ## Elixir
 
-Let's imagine that we have simple Elixir module containing two functions. First `Hello.hello/0` just print us "Hello world!" and wait 100ms where second `Hello.say_hello/0` is invoking `Hello.hello/0` 600 times (Source code is available on GitHub - [link](https://github.com/Appliscale/hello_xprof_elixir)). We built the application with [Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html) as Elixir build tool.
+Let's imagine that we have simple Elixir module containing two functions. First `Hello.hello/0` just print us "Hello world!" and wait 100ms where second `Hello.say_hello/0` is invoking `Hello.hello/0` 600 times (Source code is available on GitHub - [link](https://github.com/Appliscale/hello_xprof/tree/master/elixir)). We built the application with [Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html) as Elixir build tool.
 Our logic is inside `lib/hello.ex`:
 
 ```elixir
@@ -106,7 +106,7 @@ To stop tracing `Hello.hello` click on "x" button in the upper right corner or c
 
 ## Erlang
 
-Now let's try to use XProf for Erlang application (Source code is available on GitHub - [link](https://github.com/Appliscale/hello_xprof_erlang)). We will use [rebar3](http://www.rebar3.org/docs/basic-usage) as Erlang's build tool. To initialize project we will use the following command:
+Now let's try to use XProf for Erlang application (Source code is available on GitHub - [link](https://github.com/Appliscale/hello_xprof/tree/master/erlang)). We will use [rebar3](http://www.rebar3.org/docs/basic-usage) as Erlang's build tool. To initialize project we will use the following command:
 
 ```
 $ rebar3 new app hello
