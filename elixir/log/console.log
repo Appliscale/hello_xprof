@@ -1,0 +1,102 @@
+2017-10-20 16:22:12.303 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:22:12.385 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:22:12.389 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:22:12.395 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:23:00.602 [info] <0.317.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:23:00.613 [info] <0.317.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-20 16:24:04.853 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:24:04.947 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:24:04.956 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:24:04.988 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:24:26.298 [info] <0.317.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:24:26.303 [info] <0.317.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-20 16:25:09.107 [info] <0.325.0>@xprof_tracer:trace:74 Tracing pause
+2017-10-20 16:25:20.682 [info] <0.329.0>@xprof_tracer:trace:74 Tracing all
+2017-10-20 16:27:59.697 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:27:59.772 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:27:59.777 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:27:59.780 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:28:31.494 [info] <0.318.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:28:31.502 [info] <0.318.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-20 16:29:19.986 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:29:20.073 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:29:20.082 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:29:20.093 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:29:55.893 [info] <0.324.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:29:55.897 [info] <0.324.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-20 16:34:36.674 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:34:36.746 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:34:36.752 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:34:36.770 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:35:15.292 [info] <0.321.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:35:15.296 [info] <0.321.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-20 16:53:54.674 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:53:54.736 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:53:54.739 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:53:54.745 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:54:05.530 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:54:05.621 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:54:05.627 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:54:05.636 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:54:23.062 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-20 16:54:23.111 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-20 16:54:23.113 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-20 16:54:23.115 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-20 16:55:12.710 [info] <0.318.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.'
+2017-10-20 16:55:12.715 [error] <0.318.0>@xprof_tracer:monitor:43 syntax error before:  at column 6
+2017-10-20 16:55:15.934 [info] <0.317.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-20 16:55:15.935 [info] <0.317.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-23 10:48:33.528 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 10:48:33.575 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 10:48:33.576 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 10:48:33.578 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 10:49:52.487 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 10:49:52.533 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 10:49:52.534 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 10:49:52.536 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 10:50:36.821 [info] <0.321.0>@xprof_tracer:trace:74 Tracing all
+2017-10-23 10:50:38.492 [info] <0.321.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-23 10:50:38.493 [info] <0.321.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-23 10:52:01.582 [info] <0.335.0>@xprof_tracer:trace:74 Tracing pause
+2017-10-23 10:55:04.636 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 10:55:04.679 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 10:55:04.681 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 10:55:04.682 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 10:55:22.452 [warning] <0.32.0> lager_error_logger_h dropped 62 messages in the last second that exceeded the limit of 50 messages/sec
+2017-10-23 10:55:22.452 [error] emulator Error in process <0.317.0> with exit value:
+{{badarity,{#Fun<Elixir.Hello.0.18853651>,[1]}},[{'Elixir.Enum','-each/2-fun-0-',3,[{file,"lib/enum.ex"},{line,681}]},{'Elixir.Enum',reduce_range_inc,4,[{file,"lib/enum.ex"},{line,1856}]},{'Elixir.Enum',each,2,[{file,"lib/enum.ex"},{line,1831}]}]}
+2017-10-23 10:55:33.745 [error] emulator Error in process <0.320.0> with exit value:
+{{badarity,{#Fun<Elixir.Hello.0.18853651>,[1]}},[{'Elixir.Enum','-each/2-fun-0-',3,[{file,"lib/enum.ex"},{line,681}]},{'Elixir.Enum',reduce_range_inc,4,[{file,"lib/enum.ex"},{line,1856}]},{'Elixir.Enum',each,2,[{file,"lib/enum.ex"},{line,1831}]}]}
+2017-10-23 10:56:01.325 [error] emulator Error in process <0.323.0> with exit value:
+{undef,[{'Elixir.Hello',hello,[<<"BOSS">>],[]}]}
+2017-10-23 10:56:11.401 [error] emulator Error in process <0.330.0> with exit value:
+{{badarity,{#Fun<Elixir.Hello.0.18853651>,[1]}},[{'Elixir.Enum','-each/2-fun-0-',3,[{file,"lib/enum.ex"},{line,681}]},{'Elixir.Enum',reduce_range_inc,4,[{file,"lib/enum.ex"},{line,1856}]},{'Elixir.Enum',each,2,[{file,"lib/enum.ex"},{line,1831}]}]}
+2017-10-23 10:57:57.868 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 10:57:57.912 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 10:57:57.914 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 10:57:57.915 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 10:58:32.150 [info] <0.320.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.say_hello/0'
+2017-10-23 10:58:32.151 [info] <0.320.0>@xprof_tracer:monitor:39 Starting monitoring Hello.say_hello/0
+2017-10-23 10:58:43.782 [info] <0.323.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':say_hello/0
+2017-10-23 10:58:43.782 [info] <0.323.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':say_hello/0
+2017-10-23 10:58:47.795 [info] <0.323.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-23 10:58:47.796 [info] <0.323.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-23 10:59:56.446 [info] <0.337.0>@xprof_tracer:trace:74 Tracing pause
+2017-10-23 11:00:06.651 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 11:00:06.694 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 11:00:06.695 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 11:00:06.697 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 11:00:26.216 [info] <0.322.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-23 11:00:26.219 [info] <0.322.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-23 11:01:29.416 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 11:01:29.454 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 11:01:29.455 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 11:01:29.457 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 11:01:48.191 [info] <0.317.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-23 11:01:48.192 [info] <0.317.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2017-10-23 11:04:14.878 [error] <0.155.0> Supervisor 'Elixir.Logger.Supervisor' had child 'Elixir.Logger.ErrorHandler' started with 'Elixir.Logger.Watcher':start_link({error_logger,'Elixir.Logger.ErrorHandler',{true,false,500}}) at <0.160.0> exit with reason normal in context child_terminated
+2017-10-23 11:04:14.923 [info] <0.33.0> Application lager started on node nonode@nohost
+2017-10-23 11:04:14.924 [info] <0.33.0> Application jsone started on node nonode@nohost
+2017-10-23 11:04:14.926 [info] <0.33.0> Application customized_hdr_histogram started on node nonode@nohost
+2017-10-23 11:05:07.849 [info] <0.326.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2017-10-23 11:05:07.850 [info] <0.326.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
